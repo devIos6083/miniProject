@@ -5,3 +5,6 @@
 
 
 👍 일주일에 두개 이상은 커밋하는것이 나의 목표
+
+
+🫶 Shout out to Dr. Angela Yu, Developer and Lead 
